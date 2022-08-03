@@ -1,0 +1,1 @@
+For Typescript, this folder store your types/interfaces
